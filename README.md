@@ -190,4 +190,12 @@ The Pollster app is located at https://github.com/jrubes/LaMetric/blob/master/Sm
 
 All credit goes to Statusbits for this Pollster app.
 
+Also, if you have multiple Sonos Speakers and/or multiple LaMetric Devices and want to run multiple instances of this app: 
+
+Just create another Indicator App with the name of your second speaker (it will have a new Push URL) and install another instance of the SmartApp with this new Push URL.
+
+You do NOT need to install the SmartApp again in the SmartThings developer console. Just go to the marketplace and install another instance of the same SmartApp as before. This instance will have its own Access-Token to be used for that speaker button action. 
+
+You will now see multiple LaMetric Apps in your Private section of the store to each of your speakers.
+
 #Good Luck!
