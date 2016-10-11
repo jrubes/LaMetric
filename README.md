@@ -174,7 +174,7 @@ Click on your app and then click on add to install it
 
 ![alt-tag](https://raw.githubusercontent.com/jrubes/LaMetric/screenshots/screenshots/Lametric-30.png)
 
-Once installed, you can click on the app to have it notify when the song changes (I like to have this checked, you may prefer otheriwse, play with whatever settings that suit you best).
+Once installed, you can click on the app to have it notify when the song changes (I like to have this checked, you may prefer otherwise, play with whatever settings that suit you best).
 
 ![alt-tag](https://raw.githubusercontent.com/jrubes/LaMetric/screenshots/screenshots/Lametric-31.png)
 
