@@ -48,7 +48,7 @@ OPTIONAL: If you want to have the action button on the LaMetric display be able 
 
 #Step 4 - SmartThings SmartApp Install
 
-Now, open a new we browser tab and log into your SmartThings Developer Portal and go to "My SmartApps" at the top, and click on "+New SmartApp"
+Now, open a new web browser tab and log into your SmartThings Developer Portal and go to "My SmartApps" at the top, and click on "+New SmartApp"
 
 ![alt-tag](https://raw.githubusercontent.com/jrubes/LaMetric/screenshots/screenshots/Lametric-8.png)
 
