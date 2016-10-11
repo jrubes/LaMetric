@@ -29,7 +29,7 @@ definition(
 preferences {
 	section("Choose speaker to monitor...") {
 	input "sonos", "capability.musicPlayer", title: "Which Sonos Speaker?", multiple: false, required: true
-	}
+    }
 	section("Enter the Push URL from the LaMetric Developer site:") {
 	input "push_url", "text", title: "Push URL:", multiple: false, requried: true
     }
