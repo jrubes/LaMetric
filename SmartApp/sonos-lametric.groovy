@@ -14,7 +14,7 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  */
- 
+
 definition(
 	name: "Display Sonos Now Playing on LaMetric",
 	namespace: "smartthings",
